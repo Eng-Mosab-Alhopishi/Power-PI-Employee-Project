@@ -19,9 +19,8 @@ The dashboard provides a 360-degree view of the company's workforce, uncovering 
 
 Below is a snapshot of the main dashboard interface. *The best experience is interactive; see the "How to Use" section to explore the full `.pbix` file.*
 
-*(**Crucial Step:** Replace the URL below with a link to a high-quality screenshot of your finished dashboard!)*
 
-![Dashboard Screenshot](Screenshot 2025-09-25 145218.png)
+https://github.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project/blob/main/Screenshot%202025-09-25%20145218.png
 
 ---
 
