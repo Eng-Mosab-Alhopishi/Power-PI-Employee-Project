@@ -17,10 +17,9 @@ The dashboard provides a 360-degree view of the company's workforce, uncovering 
 
 ## ✨ Live Dashboard Preview
 
-Below is a snapshot of the main dashboard interface. *The best experience is interactive; see the "How to Use" section to explore the full `.pbix` file.*
+Here is a snapshot of the main dashboard interface. The full interactive experience is available in the `.pbix` file.
 
-
-https://github.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project/blob/main/Screenshot%202025-09-25%20145218.png
+![Dashboard Screenshot](https://raw.githubusercontent.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project/main/Screenshot%202025-09-25%20145218.png)
 
 ---
 
@@ -71,7 +70,7 @@ Ready to explore the data?
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone [https://github.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project.git](https://github.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project.git)
     ```
 2.  **Download the `.pbix` file.**
 3.  **Open the file in Power BI Desktop.**
@@ -83,5 +82,4 @@ Ready to explore the data?
 
 I'm passionate about leveraging data to tell stories and drive business decisions. If you have any questions, feedback, or just want to connect, feel free to reach out!
 
--   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
--   **GitHub:** [github.com/your-username](https://github.com/your-username)
+-   **GitHub:** [github.com/Eng-Mosab-Alhopishi](https://github.com/Eng-Mosab-Alhopishi)
