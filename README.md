@@ -21,7 +21,7 @@ Below is a snapshot of the main dashboard interface. *The best experience is int
 
 *(**Crucial Step:** Replace the URL below with a link to a high-quality screenshot of your finished dashboard!)*
 
-![Dashboard Screenshot](https://i.imgur.com/YOUR_DASHBOARD_IMAGE_URL.png)
+![Dashboard Screenshot](Screenshot 2025-09-25 145218.png)
 
 ---
 
