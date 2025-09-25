@@ -70,7 +70,7 @@ Ready to explore the data?
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project.git](https://github.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project.git)
+    git clone [https://github.com/Eng-Mosab-Alhopishi/Power-PI-Employee-Project.git]
     ```
 2.  **Download the `.pbix` file.**
 3.  **Open the file in Power BI Desktop.**
